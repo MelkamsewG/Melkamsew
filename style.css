@@ -1,5 +1,30 @@
+body {
+    background-color: rgb(217, 224, 224);
+    background-image: url("./resourse/kamchatka-tm.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.special {
+    color: lightskyblue;
+}
+
 p {
-    color: white;
-    background-color: salmon;
-    border: 5px solid red;
+    color: rgb(15, 15, 15);
+    font-size: large;
+}
+
+ul {
+    color: rgb(71, 138, 131);
+}
+
+#email,
+#tele {
+    color: blue
 }
